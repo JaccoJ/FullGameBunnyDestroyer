@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e687fa3a1015f2647864792a5b8cdf2c
+timeCreated: 1511264053
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Burbank Big Condensed
+  fontNames:
+  - Burbank Big Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
